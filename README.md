@@ -2,6 +2,14 @@
  <img src="thumbnail_PathBench-logo-horizontaal.png" alt="PathBench" width="800" height="200">
 </p>
 
+
+[!WARNING]
+This repository is deprecated and is soon-to-be archived.
+
+Active development has moved to the succesor to PathBench-MIL: [PathForge](https://github.com/Sbrussee/PathForge).
+
+Please use the new repository for source code, issues, pull requests, and documentation.
+
 # PathBench-MIL: A comprehensive, flexible Benchmarking/AutoML framework for multiple instance learning in pathology.
 
 PathBench is a Python package designed to facilitate benchmarking, experimentation, and optimization of Multiple Instance Learning (MIL) for computational histopathology. It provides tools for conducting experiments, evaluating performance, visualizing results, and optimizing hyperparameters. PathBench is built on top of the excellent [SlideFlow](https://github.com/jamesdolezal/slideflow) package for handling Whole Slide images and integrates Optuna for hyperparameter optimization. PathBench is useful for researchers aiming to benchmarking different pipeline parameters / models for use in their subdomain (in which case the benchmark mode is more suitable) and users starting a Computational Pathology project and wanting to find a suitable pipeline architecture (in which case the optimization mode is more suitable).
