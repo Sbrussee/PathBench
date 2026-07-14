@@ -3,8 +3,8 @@
 </p>
 
 
-[!WARNING]
-This repository is deprecated and is soon-to-be archived.
+
+ # ⚠️ This repository is deprecated and is soon-to-be archived.
 
 Active development has moved to the succesor to PathBench-MIL: [PathForge](https://github.com/Sbrussee/PathForge).
 
